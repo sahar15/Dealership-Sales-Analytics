@@ -13,7 +13,7 @@ A database-driven sales analytics system for a car dealership.
 
 ## Database Design
 
-![ER Diagram](ERD/Car-Dealeship-ERD.png)
+![ER Diagram](ERD/Car_Dealeship_ERD.png)
 
 ## Analytics
 
